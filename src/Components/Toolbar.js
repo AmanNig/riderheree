@@ -50,7 +50,7 @@ export default class ToolbarExamplesSimple extends React.Component {
         <Toolbar style={styleToolbar}>
           <ToolbarGroup>
             <FlatButton 
-              label='UBAR' 
+              label='RideHere' 
               hoverColor='white'
               style= {styleUber}
               href="/"
